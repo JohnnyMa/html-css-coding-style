@@ -1,6 +1,6 @@
 # CSS Coding Style
 
-本文档定义了HTML和CSS的格式和样式规则，旨在改善协作编码，代码质量和规范基本结构。它适用于使用HTML和CSS的源代码文件。主要参考了[Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)。
+本文档定义了HTML和CSS的格式和样式规则，旨在改善协作编码，代码质量和规范基本结构。它适用于使用HTML和CSS的源代码文件。主要参考了[Google HTML/CSS Style Guide](http://google.github.io/styleguide/htmlcssguide.xml)。
 
 ## 通用样式规则
 ### 协议

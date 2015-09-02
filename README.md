@@ -50,7 +50,7 @@
     <p>Yes please.
 ## 通用Meta规则
 ### 编码
-使用UTF-8（非BOM），在HTML中指定UTF-8编码，在CSS中则不需要特别指定因为默认就是UTF-8，更多编码和指定方式的资料可以参见 [Character Sets & Encodings in XHTML, HTML and CSS](http://www.w3.org/International/tutorials/tutorial-char-enc/en/all.html)
+使用UTF-8（非BOM），在HTML中指定UTF-8编码，在CSS中则不需要特别指定因为默认就是UTF-8，更多编码和指定方式的资料可以参见 [Character Sets & Encodings in XHTML, HTML and CSS](http://www.w3.org/International/tutorials/tutorial-char-enc/)
 
     <meta charset="utf-8">
 ### 注释
